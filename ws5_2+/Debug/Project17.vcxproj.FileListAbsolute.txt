@@ -1,0 +1,3 @@
+C:\Users\AutoLogon\source\repos\ws5_2\Debug\Project17.exe
+C:\Users\AutoLogon\Desktop\ws5_2\Debug\Project17.exe
+C:\Users\AutoLogon\source\repos\ws5_2+\Debug\Project17.exe
