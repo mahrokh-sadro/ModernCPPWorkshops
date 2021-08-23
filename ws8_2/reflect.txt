@@ -1,0 +1,7 @@
+ /usr/local/gcc/10.2.0/bin/g++ -Wall -std=c++17 -g -o ws *.cpp 
+
+
+
+~chris.szalwinski/submit 345_w1_p1
+
+~chris.szalwinski/submit 345_w1_p1 -feedback
